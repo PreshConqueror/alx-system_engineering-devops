@@ -1,2 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
 chown betty hello
+=======
+>>>>>>> d6d2971e46319ba8d682ffab8ba4ae3f62027965
